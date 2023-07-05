@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ---------- GENERAL ---------- */
+
+body {
+	background: #C0C0C0;
+	color: #000;
+	font: 100%/1.5em "Varela Round", sans-serif;
+  margin: 0;
+}
+
+input {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: inherit;
+	line-height: inherit;
+	-webkit-appearance: none;
+}
+
+/* ---------- LOGIN ---------- */
+
+#input_lp {
+	margin: 50px auto;
+	width: 500px;
+	position: relative;
+}
+
+#input_lp h2 {
+	background: #fff;
+	border-radius: 3px 3px 0 0;
+	color: #e1141e;
+	font-size: 18px;
+	padding: 20px 26px;
+	margin-bottom: 0;
+	font-weight:100;
+	text-align: center;
+}
+#input_lp h2 span.logo{
+	background: url(../img/logo.jpg) no-repeat 0 0;
+	width: 100px;
+	height: 24px;
+	display:block;
+	margin-bottom: 50px;
+    margin-right: 20px;
+}
+
+#input_lp fieldset {
+	background: #fff;
+	padding: 20px 26px;
+	border: 0 none;
+    border-radius: 0 0 3px 3px;
+    margin: 0;
+}
+
+#input_lp fieldset p {
+	color: #777;
+	margin-bottom: 14px;
+}
+
+#input_lp fieldset p:last-child {
+	margin-bottom: 0;
+}
+
+#input_lp fieldset input {
+	border-radius: 3px;
+}
+
+#input_lp fieldset input[type="text"] {
+	background: #eee;
+	color: #777;
+	padding: 4px 10px;
+	width: 300px;
+}
+#input_lp fieldset label.lp-lable{
+	margin-right: 50px;
+}
+
+#input_lp fieldset #submit_button {
+	background: #33cc77;
+	color: #fff;
+	display: block;
+	margin: 0 auto;
+	padding: 4px 0;
+	width: 100px;
+}
+
+#input_lp fieldset #submit_button:hover {
+	background: #28ad63;
+}
+
+#input_lp #overlay{
+	background: none repeat scroll 0 0 #C0C0C0;
+    display: none;
+    height: 100%;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#input_lp #overlay.show{
+	background: none repeat scroll 0 0 #C0C0C0;
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#loading {
+  -webkit-animation-name: rotateThis;
+  -webkit-animation-duration:2s;
+  -webkit-animation-iteration-count:infinite;
+  -webkit-animation-timing-function:linear;
+}
+@-webkit-keyframes rotateThis {
+  from {-webkit-transform:scale(0.5) rotate(0deg);}
+  to {-webkit-transform:scale(0.5) rotate(360deg);}
+}
+
+.bar1 {
+  -moz-transform:rotate(0deg) translate(0, -40px);
+  -webkit-transform:rotate(0deg) translate(0, -40px);opacity:0.12;
+}
+.bar2 {
+  -moz-transform:rotate(45deg) translate(0, -40px);
+  -webkit-transform:rotate(45deg) translate(0, -40px);opacity:0.25;
+}
+.bar3 {
+  -moz-transform:rotate(90deg) translate(0, -40px);
+  -webkit-transform:rotate(90deg) translate(0, -40px);opacity:0.37;
+}
+.bar4 {
+  -moz-transform:rotate(135deg) translate(0, -40px);
+  -webkit-transform:rotate(135deg) translate(0, -40px);opacity:0.50;
+}
+.bar5 {
+  -moz-transform:rotate(180deg) translate(0, -40px);
+  -webkit-transform:rotate(180deg) translate(0, -40px);opacity:0.62;
+}
+.bar6 {
+  -moz-transform:rotate(225deg) translate(0, -40px);
+  -webkit-transform:rotate(225deg) translate(0, -40px);opacity:0.75;
+}
+.bar7 {
+  -moz-transform:rotate(270deg) translate(0, -40px);
+  -webkit-transform:rotate(270deg) translate(0, -40px);opacity:0.87;
+}
+.bar8 {
+  -moz-transform:rotate(315deg) translate(0, -40px);
+  -webkit-transform:rotate(315deg) translate(0, -40px);opacity:1;
+}
+
+
+#loading {
+  position:relative;
+  width:100px;
+  height:100px;
+  margin-bottom:1.5em;
+  margin-right:1.5em;
+  -moz-border-radius:100px;
+  margin-left: 195px;
+  margin-top: 75px;
+  -moz-transform:scale(0.5);
+  -webkit-transform:scale(0.5);
+}
+#loading div {
+  width:10px;
+  height:30px;
+  background:#000;
+  position:absolute;
+  top:35px;
+  left:45px;
+}
+
+#alert_window{
+	background: none repeat scroll 0 0 #333333;
+    border-radius: 3px;
+    color: #FFFFFF;
+    left: 16%;
+    padding: 20px;
+    position: absolute;
+    top: 30%;
+    width: 340px;
+}
+#confirm_btn{
+	background: none repeat scroll 0 0 #484848;
+    border: 1px solid #3F3F3F;
+    border-radius: 3px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin: 20px auto 0;
+    padding: 5px 0;
+    text-align: center;
+    width: 100px;
+}
+#confirm_btn:hover{
+	background: none repeat scroll 0 0 #777;
+    border: 1px solid #555;
+}
+#popup{
+	color:#fff;
+	font-size: 16px;
+	font-weight:100;
+	text-align: center;
+}
+#popup.bold{
+	color: #FF0000;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}

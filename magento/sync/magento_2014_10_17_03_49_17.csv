@@ -1,0 +1,14 @@
+﻿orderid,firstname,lastname,email,street,city,region,postalcode,countrycode,phone,shipping_class,item_sku,quantity,unit_price,total,tax,priority
+100000001,Amar,Sidhu,amars18@gmail.com,"1140 Dominique dr",tracy,California,95304,US,2099149161,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,10
+100000002,TEST,TEST,james@shop247.com,"TEST ORDER",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,INX1061,1,4.9900,11.9800,6.9900,9
+100000004,James,Millington,james@shop247.com.au,TEST,"Henderson, NV",Nevada,89014,US,1,flatrate_flatrate,LXHCT-100A,1,29.9900,39.4100,6.9900,1
+100000005,James,Millington,james@shop247.com.au,TEST,Henderson,Nevada,89014,US,1,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000006,James,Millington,james@shop247.com.au,TEST,Henderson,Nevada,89014,US,1,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000007,Simon,Millington,james@shop247.com.au,"#16, 110 Sunset Way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000008,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000009,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000010,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000011,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000012,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000013,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,1
+100000014,Kantrell,Hall,kantrellhall@aol.com,"10122 mustang rise","San Antonio",Texas,78254,US,2109126946,freeshipping_freeshipping,NHPSG-020A,1,139.9900,139.9900,0.0000,0

@@ -1,0 +1,3 @@
+﻿orderid,firstname,lastname,email,street,city,region,postalcode,countrycode,phone,shipping_class,item_sku,quantity,unit_price,total,tax,priority
+100000001,Amar,Sidhu,amars18@gmail.com,"1140 Dominique dr",tracy,California,95304,US,2099149161,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,6
+100000002,TEST,TEST,james@shop247.com,"TEST ORDER",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,INX1061,1,4.9900,11.9800,6.9900,6

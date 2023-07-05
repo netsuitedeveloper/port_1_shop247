@@ -1,0 +1,104 @@
+﻿orderid,firstname,lastname,email,street,city,region,postalcode,countrycode,phone,shipping_class,item_sku,quantity,unit_price,total,tax,priority
+100000001,Amar,Sidhu,amars18@gmail.com,"1140 Dominique dr",tracy,California,95304,US,2099149161,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,59
+100000002,TEST,TEST,james@shop247.com,"TEST ORDER",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,INX1061,1,4.9900,11.9800,6.9900,59
+100000004,James,Millington,james@shop247.com.au,TEST,"Henderson, NV",Nevada,89014,US,1,flatrate_flatrate,LXHCT-100A,1,29.9900,39.4100,6.9900,50
+100000005,James,Millington,james@shop247.com.au,TEST,Henderson,Nevada,89014,US,1,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000006,James,Millington,james@shop247.com.au,TEST,Henderson,Nevada,89014,US,1,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000007,Simon,Millington,james@shop247.com.au,"#16, 110 Sunset Way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000008,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000009,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000010,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000011,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000012,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000013,James,Millington,james@shop247.com.au,"#16, 110 Sunset Way","Henderson, NV",Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,50
+100000014,Kantrell,Hall,kantrellhall@aol.com,"10122 mustang rise","San Antonio",Texas,78254,US,2109126946,freeshipping_freeshipping,NHPSG-020A,1,139.9900,139.9900,0.0000,49
+100000015,j,m,james@golfoutletsusa.com,"110 16 Sunset Way",Henderson,Nevada,89014,US,180060300004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,49
+100000016,James,Millington,james@golfoutletsusa.com,"110 16 Sunset Way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,49
+100000017,james,millington,james@golfoutletsusa.com,"110 16 sunset way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,SBNC-1500,1,9.9900,17.7900,6.9900,49
+100000018,Rose,Shackelford,bshack1964@gmail.com,"619 Todd Cir","Warner Robins",Georgia,31088,US,4782133073,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,47
+100000019,Andrzej,Rosiek,andrzej.rosiek@polcode.net,test,test,Alaska,12345,US,test,freeshipping_freeshipping,"XJCFT-0100 ",1,149.9900,149.9900,0.0000,44
+100000020,Andrzej,Rosiek,andrzej.rosiek@polcode.net,test,test,Alaska,12345,US,test,freeshipping_freeshipping,"XJCFT-0100 ",1,149.9900,149.9900,0.0000,44
+100000022,shefali,narang,shefali.narang@wizecommerce.com,"2955
+campus dr","san mateo",California,94403,US,6195002355,flatrate_flatrate,CXTHQ-1020,1,24.9900,31.9800,6.9900,39
+100000023,roger,powell,rdp6191945@aol.com,"2474 Rushbrook dr.",Flushing,Michigan,48433,US,810-732-9377,freeshipping_freeshipping,NHCFT-1200,1,299.9900,299.9900,0.0000,34
+100000024,Laura,Stoddard,lstoddard004@yahoo.com,"1015 Aoloa Place #260",Kailua,Hawaii,96734,US,808-782-2666,freeshipping_freeshipping,NHCFT-1100,1,199.9900,199.9900,0.0000,31
+100000025,Robin,Spiel,rlevine410@aol.com,"3 Rock Ridge Court","Morris Plains","New Jersey",07950,US,973-292-6336,freeshipping_freeshipping,JTHG-100A,1,99.9900,99.9900,0.0000,29
+100000025,Robin,Spiel,rlevine410@aol.com,"3 Rock Ridge Court","Morris Plains","New Jersey",07950,US,973-292-6336,freeshipping_freeshipping,JTHG-100A,1,0.0000,99.9900,0.0000,29
+100000026,antonio,gallardo,loboagc@hotmail.com,"2310 Via Tercero
+Suite M112-02","San Ysidro",California,92173,US,6193923855,freeshipping_freeshipping,NHPSG-020A,10,139.9900,1399.9000,0.0000,28
+100000027,antonio,gallardo,loboagc@hotmail.com,"2310 Via Tercero
+Suite M112-02","San Ysidro",California,92173,US,6193923855,freeshipping_freeshipping,NHPSG-020A,1,139.9900,139.9900,0.0000,28
+100000028,sahil,virmani,sahil.virmani@wizecommerce.com,"2955 Campus Dr #300, San Mateo, CA 94403, United States","San Mateo",California,94403,US,6506454700,freeshipping_freeshipping,JGL-0600,1,149.9900,149.9900,0.0000,23
+100000029,JULES,PACHECO,EAGLE1833@GMAIL.COM,"3900 NW 25TH ST SUITE#414",MIAMI,Florida,33142,US,305-635-3230,freeshipping_freeshipping,SFSCS-0340,1,119.9900,119.9900,0.0000,19
+100000030,"David ",Graham,dr-graham@comcast.net,"7364 Gardenview Drive",Elkridge,Maryland,21075,US,4105364980,freeshipping_freeshipping," JTHG-100C",1,79.9900,79.9900,0.0000,12
+100000030,"David ",Graham,dr-graham@comcast.net,"7364 Gardenview Drive",Elkridge,Maryland,21075,US,4105364980,freeshipping_freeshipping," JTHG-100C",1,0.0000,79.9900,0.0000,12
+100000031,Mark,Matthew,markandrico@me.com,"2105 N Williams Street","Santa Ana",California,92705,US,714-543-0141,freeshipping_freeshipping,NHPSG-040A,1,329.9900,329.9900,0.0000,12
+100000032,George,Dabbs,Gdabbs224@hotmail.com,"6200 afton dr",Dayton,Ohio,45415,US,9376039078,flatrate_flatrate,SGF2210,1,19.9900,26.9800,6.9900,11
+100000033,Stephannia,Williams,Stephanniaw@gmail.com,"2412  independence lane",Buford,Georgia,30519,US,864-346-5296,flatrate_flatrate,JTCPP-100D,1,59.9900,66.9800,6.9900,10
+100000034,"Ciaran ",O'Connor,hedspin@hotmail.com,"3622 Autumnleaf Crescent",Mississauga,Ontario,L5L1K5,CA,"905 828 5522",flatrate_flatrate,HDCFB-0200,1,99.9900,106.9800,6.9900,9
+100000035,lynn,murphy,blue.shirt97@yahoo.com,"1916 SE 154 Avenue",Vancouver,Washington,98683-9048,US,360-882-0022,freeshipping_freeshipping,NHCFT-1200,1,299.9900,299.9900,0.0000,8
+100000036,Karen,Hanna,Lp205@live.com,"185a north Jerusalem hollow road","Manorville ","New York",11949,US,"631 603 9518",freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,6
+100000037,Karen,Hanna,Lp205@live.com,"185a north Jerusalem hollow road","Manorville ","New York",11949,US,"631 603 9518",freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,6
+100000038,Karen,Hanna,Lp205@live.com,"185a north Jerusalem hollow road","Manorville ","New York",11949,US,"631 603 9518",freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,6
+100000039,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1001,1,99.9900,229.9800,0.0000,6
+100000039,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1011,1,129.9900,229.9800,0.0000,6
+100000040,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1001,1,99.9900,229.9800,0.0000,6
+100000040,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1011,1,129.9900,229.9800,0.0000,6
+100000041,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1001,1,99.9900,229.9800,0.0000,6
+100000041,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1011,1,129.9900,229.9800,0.0000,6
+100000042,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1001,1,99.9900,229.9800,0.0000,6
+100000042,Gregory,Bieth,EARTHCROSSER45@AOL.COM,"70392 Barton Road","St Clairsville,",Ohio,43950,US,"740 695 3040",freeshipping_freeshipping,NCHH-1011,1,129.9900,229.9800,0.0000,6
+100000043,Sharon,Fox,goodfoxbirdiehaven@yahoo.com,"221 2nd Ave N",Algona,Washington,98001,US,2533330766,freeshipping_freeshipping,NHPSG-030A,1,249.9900,249.9900,0.0000,6
+100000044,Sharon,Fox,goodfoxbirdiehaven@yahoo.com,"221 2nd Ave N",Algona,Washington,98001,US,2533330766,freeshipping_freeshipping,NHPSG-030A,1,249.9900,249.9900,0.0000,6
+100000046,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,5
+100000047,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,5
+100000048,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,5
+100000049,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,5
+100000050,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,5
+100000051,"Paul ",Kim,pauladamkim@yahoo.com,"99-1194 Halawa Hts. Rd.",Aiea,Hawaii,96701,US,808-383-9068,flatrate_flatrate,NHPSG-010A,1,129.9900,136.9800,6.9900,5
+100000056,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000057,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000058,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000059,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000060,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000061,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000062,Sarah,Wegrzyn,s3wegrzyn@gmail.com,"3231 Ashby Ln",Kalamazoo,Michigan,49004,US,5177409265,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,4
+100000063,Cody,Linville,typhanienorris@yahoo.com,"30065 Ingram rd",lebanon,Oregon,97355,US,5419905573,freeshipping_freeshipping,JTCPP-1320,1,129.9900,129.9900,0.0000,4
+100000064,Cody,Linville,typhanienorris@yahoo.com,"30065 Ingram rd",lebanon,Oregon,97355,US,5419905573,freeshipping_freeshipping,JTCPP-1320,1,129.9900,129.9900,0.0000,4
+100000066,Lea,Martin,leoramartin@yahoo.com,"3645 Arizona St. Unit 4","san diego",California,92104,US,9166625670,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,4
+100000067,Lea,Martin,leoramartin@yahoo.com,"3645 Arizona St. Unit 4","san diego",California,92104,US,9166625670,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,4
+100000068,Lea,Martin,leoramartin@yahoo.com,"3645 Arizona St. Unit 4","san diego",California,92104,US,9166625670,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,4
+100000069,Lea,Martin,leoramartin@yahoo.com,"3645 Arizona St. Unit 4","san diego",California,92104,US,9166625670,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,4
+100000071,John,McCLure,rmcclure@zeracom.com,"319 Garlington Rd
+Suite B-8",Greenville,"South Carolina",29615,US,864-676-2171,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,4
+100000072,John,McCLure,rmcclure@zeracom.com,"319 Garlington Rd
+Suite B-8",Greenville,"South Carolina",29615,US,864-676-2171,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,4
+100000073,John,McCLure,rmcclure@zeracom.com,"319 Garlington Rd
+Suite B-8",Greenville,"South Carolina",29615,US,864-676-2171,freeshipping_freeshipping,NHCFV-2000,1,249.9900,249.9900,0.0000,4
+100000074,"DO NOT SHIP","DO NOT SHIP",james@shop247.com,"#16, 110 Sunset Way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,LXHCT-100B,1,14.9900,23.1900,6.9900,4
+100000075,"DO NOT SHIP","DO NOT SHIP",james@shop247.com,"#16, 110 Sunset Way",Henderson,Nevada,89014,US,18006030004,flatrate_flatrate,LXHCT-100B,1,14.9900,23.1900,6.9900,4
+100000076,John,Ruzza,roadrunner714@yahoo.com,"54574 Petunia Dr.
+None",Macomb,Michigan,48042,US,5866773424,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,3
+100000077,David,Schroeder,dschroeder2010@gmail.com,"11505 Andy Drive",Riverview,Florida,33569,US,"813 787 1017",freeshipping_freeshipping,SBCGS-050A,1,99.9900,99.9900,0.0000,3
+100000078,Joann,Charles,joanncharles@aol.com,"3424 Carriage Walk Court",Laurel,Maryland,20724,US,240-338-5013,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,3
+100000079,Joshua,Berg,josh_denise@yahoo.com,"11631 E Laketowne Dr",Albertville,Minnesota,55301,US,763-567-8855,freeshipping_freeshipping,SBCGS-020A,2,69.9900,139.9800,0.0000,3
+100000079,Joshua,Berg,josh_denise@yahoo.com,"11631 E Laketowne Dr",Albertville,Minnesota,55301,US,763-567-8855,freeshipping_freeshipping,SBCGS-020A,2,0.0000,139.9800,0.0000,3
+100000080,joshua,hurst,joshthecreative@yahoo.com,"4472 Spring Valley Road",Dallas,Texas,75244,US,4696441390,freeshipping_freeshipping,WSHG-1020,1,89.9900,89.9900,0.0000,3
+100000081,joshua,hurst,joshthecreative@yahoo.com,"7706 caillet","dallas ",Texas,75209,US,4696441390,freeshipping_freeshipping,WSHG-1020,1,89.9900,89.9900,0.0000,3
+100000082,joshua,hurst,joshthecreative@yahoo.com,"7706 caillet","dallas ",Texas,75209,US,4696441390,freeshipping_freeshipping,WSHG-1020,1,89.9900,89.9900,0.0000,3
+100000083,joshua,hurst,joshthecreative@yahoo.com,"7706 caillet street","dallas ",Texas,75209,US,4696441390,freeshipping_freeshipping,WSHG-1020,1,89.9900,89.9900,0.0000,3
+100000084,daniel,"villa ",dwvilla92@gmail.com,"6317 el selinda ave","bell gardens",California,90201,US,5622284815,freeshipping_freeshipping,NHCFT-1000,1,169.9900,169.9900,0.0000,3
+100000085,amanda,poston,nama.nuffin@yahoo.com,"912 East 38th Avenue",Spokane,Washington,99203,US,5098695529,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,3
+100000086,Randa,Moammer,randa.rm@hotmail.com,"3900 Fairfax Drive
+Appartment 623",Arlington,Virginia,22203,US,2027330366,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,2
+100000087,Barbara,Circle,milkncookies42@gmail.com,"1250 South 20th",McCune,Kansas,66753,US,16206873308,freeshipping_freeshipping," JTHG-100C",1,79.9900,79.9900,0.0000,2
+100000087,Barbara,Circle,milkncookies42@gmail.com,"1250 South 20th",McCune,Kansas,66753,US,16206873308,freeshipping_freeshipping," JTHG-100C",1,0.0000,79.9900,0.0000,2
+100000088,Barbara,Circle,milkncookies42@gmail.com,"1250 South 20th",McCune,Kansas,66753,US,16206873308,freeshipping_freeshipping," JTHG-100C",1,79.9900,79.9900,0.0000,2
+100000088,Barbara,Circle,milkncookies42@gmail.com,"1250 South 20th",McCune,Kansas,66753,US,16206873308,freeshipping_freeshipping," JTHG-100C",1,0.0000,79.9900,0.0000,2
+100000089,JOSE,MURGUIA,ELIR85@GMAIL.COM,"601 SOUTH 3RD AVENUE","LA PUENTE",California,91746,US,5622446789,freeshipping_freeshipping,NHPSG-020A,4,139.9900,559.9600,0.0000,1
+100000090,sdfdfg,gdfhrth,shefali.narang@wizecommerce.com,"2955 san mateo
+campus dr","san mateo",California,94403,US,6195002355,freeshipping_freeshipping,SFSCS-0400,1,179.9900,179.9900,0.0000,1
+100000091,Ilaria,Carta,ilabosucarta@hotmail.it,"1721 Paulding ave",Bronx,"New York",10462,US,9178555601,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,0
+100000092,Taryn,Gill,taryn@safetysaveslives.com,"1985 Bishop Ave",Murfreesboro,Tennessee,37127,US,615-995-0170,freeshipping_freeshipping,NHPSG-010A,1,129.9900,129.9900,0.0000,0
+100000093,Ernest,Mishkin,eric239@mail.com,"336 Keystone ct","San Rafael",California,94903,US,6145859577,flatrate_flatrate,CXTHQ-1020,1,19.9900,26.9800,6.9900,0
+100000094,Ron,Weaver,ronweaver@wasserstrom.com,"7620 W. Olive",Peoria,Arizona,85345,US,6025785930,freeshipping_freeshipping,MCPGS-0600,1,179.9900,179.9900,0.0000,0
